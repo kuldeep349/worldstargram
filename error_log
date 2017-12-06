@@ -1,0 +1,8 @@
+[24-Oct-2017 22:00:46 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/gnimlm/public_html/projects/worldstars/application/views/welcome_message.php on line 1222
+[24-Oct-2017 22:02:28 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/gnimlm/public_html/projects/worldstars/application/views/welcome_message.php on line 2
+[24-Oct-2017 22:02:57 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/gnimlm/public_html/projects/worldstars/application/views/welcome_message.php on line 2
+[24-Oct-2017 22:03:00 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/gnimlm/public_html/projects/worldstars/application/views/welcome_message.php on line 2
+[24-Oct-2017 22:04:15 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/gnimlm/public_html/projects/worldstars/application/views/welcome_message.php on line 2
+[24-Oct-2017 22:04:49 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/gnimlm/public_html/projects/worldstars/application/views/welcome_message.php on line 2
+[24-Oct-2017 22:05:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gnimlm/public_html/projects/worldstars/application/controllers/Welcome.php on line 5
+[24-Oct-2017 22:08:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gnimlm/public_html/projects/worldstars/application/controllers/Welcome.php on line 5
